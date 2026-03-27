@@ -16,8 +16,13 @@ The repository includes:
 - scripts for fidelity analysis
 - exported intermediate and final analysis outputs
 
-## Repository structure
 
+## ⚠️️️⚠️️️⚠️️️ Disclaimer on generated content ⚠️️️⚠️️️⚠️️️
+
+The files in `generated-surveys/` are model outputs as generated in the experimental pipeline, without manual curation of individual responses. Because these texts were produced automatically by large language models, they may contain harmful, offensive, biased, misleading, or otherwise objectionable content. They are included solely for transparency and reproducibility of the research. The views, wording, and claims expressed in those generated responses are attributable to the models and should not be interpreted as reflecting the views of the authors.
+
+
+## Repository structure
 
 ### `code/`
 
