@@ -131,14 +131,6 @@ Some generation scripts may require:
 
 ## License
 
-Add the relevant license information here. For example:
-
-```text
-This repository is released under the MIT License.
-```
-
-Or, if code and data should have different terms:
-
 ```text
 Code is released under the MIT License.
 Data files are shared for research use only.
