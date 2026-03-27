@@ -34,16 +34,16 @@ import shutil
 
 
 DATASETS: Dict[str, str] = {
-    "human": "data/humans/features_Gemma4WA",
-    "gemma": "data/machines_gemma/features_Gemma4WA",
-    "gpt-oss": "data/machines_gpt-oss/features_Gemma4WA",
-    "llama": "data/machines_llama/features_Gemma4WA",
-    "qwen": "data/machines_qwen/features_Gemma4WA",
-    "gpt": "data/machines_gpt/features_Gemma4WA"
+    "human": "data/humans/features",
+    "gemma": "data/machines_gemma/features",
+    "gpt-oss": "data/machines_gpt-oss/features",
+    "llama": "data/machines_llama/features",
+    "qwen": "data/machines_qwen/features",
+    "gpt": "data/machines_gpt/features"
 }
 
 
-OUTDIR = "data/analysis_outputs_Gemma4WA"
+OUTDIR = "data/analysis_outputs"
 
 
 

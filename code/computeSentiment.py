@@ -507,7 +507,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "base_folder", 
         nargs="?",  
-        default="/mnt/sharedHD/CodeRepo/erickson/data/", 
+        default="ANONYMIZED", 
         type=str, 
         help="this is the base folder where the input file is located."
     )
@@ -516,7 +516,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "base_file_name", 
         nargs="?", 
-        default="Q 2025_12 settembre 2025_15.23.xlsx", 
+        default="ANONYMIZED",
         type=str, 
         help="this is the localname of the input file (without path) containing the excel data."
     )

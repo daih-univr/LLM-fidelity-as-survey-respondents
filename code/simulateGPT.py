@@ -400,7 +400,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "file_name", 
         nargs="?", 
-        default="/mnt/sharedHD/CodeRepo/simulate_erickson/data/machines_gpt/Q2025_6ottobre2025_finalCleaned.xlsx", 
+        default="ANONYMIZED", 
         type=str, 
         help="this is the localname of the input file (without path) containing the excel data."
     )
