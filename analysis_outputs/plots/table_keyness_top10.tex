@@ -1,0 +1,36 @@
+% Requires in preamble:
+% \usepackage{booktabs}
+% \usepackage{tabularx}
+%
+\begin{table*}[t]
+\centering
+\small
+\setlength{\tabcolsep}{6pt}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\linewidth}{l p{7cm} p{7cm}}
+\toprule
+\textbf{Q.} & \textbf{Human distinctive} & \textbf{System distinctive} \\
+\midrule
+
+q1 & docente, collega, team, condivisione, progettazione, rete, relazione, curricolare, scuola, rapporto & progetto, partecipare, ricordare, supporto, alunno, attivamente, grazie, creare, ambiente, bene \\
+q2 & docente, collega, curricolare, sostegno, classe, poca, bambino, gruppo, confronto, venire & mancanza, risorsa, specifico, tempo, supporto, difficoltà, adeguato, formazione, personale, principale \\
+\midrule
+q3 & utile, spazio, adeguata, indispensabile & necessaria, accogliente, essenziale, fondamentale, inclusivo, inclusiva, positivo, efficace, strutturare \\
+q4 & utile, importante, strumento, indispensabile, progetto, sostegno, funzionale, articolato & personalizzato, complesso, fondamentale, impegnativo, complicare, personalizzare, essenziale, strutturare, strutturato \\
+q5 & risorsa, indispensabile, presente, preparato, collaborazione, competenza, preparata, importante, accogliente, docente & competente, fondamentale, essenziale, dedicare, supportivo, empatica, sensibile \\
+q6 & ottima, difficile, indispensabile, ottimo, buono, funzionale, necessaria, faticosa, proficua, complesso & efficace, collaborativo, collaborativa, sinergico, sinergica, essenziale, preziosa \\
+q7 & fondamentale, risorsa, buono, indispensabile, ottimo, unito, empatico, poco, collaborativo, fantastico & inclusivo, accogliente, eterogeneo, dinamico, coeso, solidale, vivace, variegato \\
+q8 & fondamentale, utile, difficile, adeguata, possibile, ottima, stimolante & flessibile, essenziale, importante, adattabile \\
+q9 & collaborativi, collaborazione, preparato, risorsa, poco, presento, necessari, supporto, collaborativo, buono & prezioso, supportivo, competente, utile, essenziale, importante, indispensabili, empatico \\
+q10 & collaborazione, presente, disponibile, difficile, difficoltà, supporto, alleanza, indispensabile, bisogno & coinvolgere, partecipativa, coinvolta, essenziale, importante, sensibile \\
+q11 & difficile, fondamentale, necessario, futuro, indispensabile, buono, poco & importante, personalizzato, integrare, strutturare \\
+q12 & scarso, poco, nulla, buono, difficoltosa, fondamentale, rara & utile, necessario, essenziale, efficiente, efficace, puntuale, complessa, collaborativo, importante, sinergico \\
+q13 & necessaria, obiettivo, indispensabile, fondamentale, efficace, necessario, auspicabile, difficile, buono & importante, autonomo, essenziale, prioritaria, libertà, autonomia, autonoma \\
+q14 & inutile, poco, buono, fondamentale, unione, collaborazione, costruttivo, sempre, necessario, funzionale & partecipativo, inclusivo, strumentale, organizzare, strumento, complesso, strategico, coinvolgente, efficace \\
+q15 & personalizzata, difficile, importante, buono, complicata, sempre, migliorare, giusta, attenta, veritiera & equa, oggettiva, equo, obiettivo, obiettiva, delicare, attento, personalizzare \\
+q16 & presente, attento, assente, accogliente, collaborativo, attenta, collaborazione, fondamentale, importante, inclusivo & supportivo, sensibile, responsabile, disponibile, decisivo, visionario, aprire, aperto, guida \\
+\bottomrule
+\end{tabularx}
+\caption{Top-10 distinctive tokens (log-odds with Dirichlet prior) for humans vs pooled systems.}
+\label{tab:keyness-top10}
+\end{table*}

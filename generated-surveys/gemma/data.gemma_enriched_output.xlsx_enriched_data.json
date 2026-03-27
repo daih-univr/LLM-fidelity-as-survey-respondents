@@ -1,0 +1,1605 @@
+{
+  "Strumentali": [
+    "neutro",
+    []
+  ],
+  "Importante": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Utopica": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Rara": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "indispensabile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Flessibile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fiducioso": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "efficace": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Decisiva": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Obbligatorio": [
+    "negativo",
+    [
+      "paura",
+      "rabbia"
+    ]
+  ],
+  "Debole": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Decisivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "costruttiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "collaborativa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Impegnativa": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Rilevanti": [
+    "neutro",
+    []
+  ],
+  "complicato": [
+    "negativo",
+    [
+      "paura",
+      "anticipazione"
+    ]
+  ],
+  "Reattivo": [
+    "negativo",
+    [
+      "rabbia",
+      "paura"
+    ]
+  ],
+  "Completo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Essenziali": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fruittuoso": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Costruttiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Adattabile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "formativa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Empatico": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Ricchi": [
+    "neutro",
+    []
+  ],
+  "Accoglienti": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "necessaria": [
+    "neutro",
+    []
+  ],
+  "Importanti": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Futura": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "futuro": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Generale": [
+    "neutro",
+    []
+  ],
+  "preziosi": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Rete": [
+    "neutro",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "strumentale": [
+    "neutro",
+    []
+  ],
+  "Essenziale": [
+    "neutro",
+    []
+  ],
+  "Teorica": [
+    "neutro",
+    []
+  ],
+  "Variabile": [
+    "neutro",
+    []
+  ],
+  "disponibile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fruittuosa": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Oggettive": [
+    "neutro",
+    []
+  ],
+  "Strutturato": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Meravigliosa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Impegnato": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Obiettivo": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Disponibili": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Delicati": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Difficile": [
+    "negativo",
+    [
+      "paura",
+      "rabbia"
+    ]
+  ],
+  "Necessario": [
+    "neutro",
+    []
+  ],
+  "Sfida": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura",
+      "rabbia"
+    ]
+  ],
+  "Eterogeneo": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Complessa": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Pratico": [
+    "neutro",
+    []
+  ],
+  "Positivo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Collaborativa": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Coinvolta": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Utopico": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Tecnico": [
+    "neutro",
+    []
+  ],
+  "pragmatico": [
+    "neutro",
+    []
+  ],
+  "Inestimabile": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Ottimo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Faticosa": [
+    "negativo",
+    [
+      "tristezza",
+      "rabbia"
+    ]
+  ],
+  "Umanizzante": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Receptivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Globale": [
+    "neutro",
+    []
+  ],
+  "Complesso": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Utopistico": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "strumento": [
+    "neutro",
+    []
+  ],
+  "Empatici": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Delicata": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Normativo": [
+    "neutro",
+    []
+  ],
+  "Indispensabile": [
+    "positivo",
+    [
+      "fiducia"
+    ]
+  ],
+  "Diversificato": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Formale": [
+    "neutro",
+    []
+  ],
+  "Supportiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "delicata": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura"
+    ]
+  ],
+  "Formativo": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Reticente": [
+    "negativo",
+    [
+      "paura",
+      "tristezza"
+    ]
+  ],
+  "complessa": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Prezioso": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Scarsa": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Buona": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Aiutante": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Oggettiva": [
+    "neutro",
+    []
+  ],
+  "Imprescindibile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Empatica": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Eterogenea": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Ricettiva": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Reticolosa": [
+    "negativo",
+    [
+      "disgusto",
+      "paura"
+    ]
+  ],
+  "Valido": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Lontano": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Flessibili": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Complicato": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura"
+    ]
+  ],
+  "Utile": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Futuro": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Vivace": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Reticolare": [
+    "neutro",
+    []
+  ],
+  "Necessaria": [
+    "neutro",
+    []
+  ],
+  "Lungo termine": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Ambizioso": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Specializzata": [
+    "neutro",
+    []
+  ],
+  "Deseiderabile": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "Sicura": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Strumento": [
+    "neutro",
+    []
+  ],
+  "impegnativo": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura"
+    ]
+  ],
+  "Fondamentale": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Vario": [
+    "neutro",
+    []
+  ],
+  "Prioritaria": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Strumentale": [
+    "neutro",
+    []
+  ],
+  "Ricercati": [
+    "negativo",
+    [
+      "paura",
+      "rabbia",
+      "disgusto"
+    ]
+  ],
+  "Doveroso": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Primario": [
+    "neutro",
+    []
+  ],
+  "Necessari": [
+    "neutro",
+    []
+  ],
+  "Lontana": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "essenziali": [
+    "neutro",
+    []
+  ],
+  "necessario": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "propositivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "cruciale": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "supportiva": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Coinvolgente": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Ricco": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Preziosa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Reticolo": [
+    "neutro",
+    []
+  ],
+  "coinvolgente": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Variopinto": [
+    "positivo",
+    [
+      "gioia",
+      "sorpresa"
+    ]
+  ],
+  "completo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Produttiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fruttuoso": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Organizzativo": [
+    "neutro",
+    []
+  ],
+  "organizzativo": [
+    "neutro",
+    []
+  ],
+  "Obiettivi": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Inclusivo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "stimolante": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Rassicurante": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Futuri": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "Ambiziosi": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Formativa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Specialistica": [
+    "neutro",
+    []
+  ],
+  "accogliente": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Articolato": [
+    "neutro",
+    []
+  ],
+  "Importantissima": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Buono": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Dinamico": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "Cruciale": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "primaria": [
+    "neutro",
+    []
+  ],
+  "Aiutanti": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Stimolanti": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Strutturante": [
+    "neutro",
+    []
+  ],
+  "Produttivo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Vibrante": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Condiviso": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Responsabile": [
+    "neutro",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Motivante": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "importanti": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Complicata": [
+    "negativo",
+    [
+      "paura",
+      "anticipazione"
+    ]
+  ],
+  "Ottima": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "utili": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Impegnativo": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura"
+    ]
+  ],
+  "Autonomia": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "Generico": [
+    "neutro",
+    []
+  ],
+  "Sensibile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fondamentali": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Oggettivi": [
+    "neutro",
+    []
+  ],
+  "Ricreativo": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Umano": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Disponibile": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Complessivo": [
+    "neutro",
+    []
+  ],
+  "Primordiale": [
+    "neutro",
+    []
+  ],
+  "Strategico": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Problematico": [
+    "negativo",
+    [
+      "paura",
+      "rabbia",
+      "disgusto"
+    ]
+  ],
+  "Inestimabili": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Rilevante": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "dinamico": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "Fruibile": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Vulnerabile": [
+    "negativo",
+    [
+      "paura",
+      "tristezza"
+    ]
+  ],
+  "Assenti": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Condivisa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "prioritaria": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "importante": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "complesso": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Complessiva": [
+    "neutro",
+    []
+  ],
+  "supporto": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Rari": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Lungo": [
+    "neutro",
+    []
+  ],
+  "Incompleto": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "formativo": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Risorsa": [
+    "neutro",
+    []
+  ],
+  "Soggettiva": [
+    "neutro",
+    []
+  ],
+  "Costruttivo": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Complessi": [
+    "negativo",
+    [
+      "paura",
+      "disgusto"
+    ]
+  ],
+  "Assente": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Oggettivo": [
+    "neutro",
+    []
+  ],
+  "Stimolante": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Dinamici": [
+    "positivo",
+    [
+      "anticipazione",
+      "gioia"
+    ]
+  ],
+  "prezioso": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "utile": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Obiettiva": [
+    "neutro",
+    []
+  ],
+  "FONDAMENTALE": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Specifica": [
+    "neutro",
+    []
+  ],
+  "preziosa": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Individualizzato": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Eterogenei": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Coinvolti": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Arduo": [
+    "negativo",
+    [
+      "paura",
+      "rabbia"
+    ]
+  ],
+  "Centrale": [
+    "neutro",
+    []
+  ],
+  "Efficace": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Difficili": [
+    "negativo",
+    [
+      "paura",
+      "rabbia",
+      "tristezza"
+    ]
+  ],
+  "fondamentale": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Utili": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Lontani": [
+    "negativo",
+    [
+      "tristezza",
+      "paura"
+    ]
+  ],
+  "Supportivi": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Propositivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Ricca": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Teorico": [
+    "neutro",
+    []
+  ],
+  "Positiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "eterogeneo": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Accogliente": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "lungimirante": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "supportivo": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Varia": [
+    "neutro",
+    []
+  ],
+  "oggettiva": [
+    "neutro",
+    []
+  ],
+  "strategica": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Primaria": [
+    "neutro",
+    []
+  ],
+  "Aggiornato": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "primario": [
+    "neutro",
+    []
+  ],
+  "pratico": [
+    "neutro",
+    []
+  ],
+  "Paziente": [
+    "neutro",
+    []
+  ],
+  "Prioritario": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Impegnata": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Fiduciosa": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Diversa": [
+    "neutro",
+    [
+      "anticipazione"
+    ]
+  ],
+  "Collaborativi": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Importantissimo": [
+    "positivo",
+    [
+      "anticipazione",
+      "fiducia"
+    ]
+  ],
+  "Diverso": [
+    "neutro",
+    [
+      "anticipazione",
+      "paura"
+    ]
+  ],
+  "Supporto": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Inclusiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Potenziante": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "positiva": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "Ricettivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "essenziale": [
+    "neutro",
+    []
+  ],
+  "Delicato": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Collaborativo": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Vibrant": [
+    "positivo",
+    [
+      "gioia",
+      "anticipazione"
+    ]
+  ],
+  "Faticoso": [
+    "negativo",
+    [
+      "tristezza",
+      "rabbia"
+    ]
+  ],
+  "Guida": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Sostenitivo": [
+    "positivo",
+    [
+      "fiducia",
+      "anticipazione"
+    ]
+  ],
+  "Proficua": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "difficile": [
+    "negativo",
+    [
+      "paura",
+      "rabbia"
+    ]
+  ],
+  "Preziosi": [
+    "positivo",
+    [
+      "gioia",
+      "fiducia"
+    ]
+  ],
+  "sensibile": [
+    "neutro",
+    [
+      "tristezza",
+      "fiducia"
+    ]
+  ],
+  "Supportivo": [
+    "positivo",
+    [
+      "fiducia",
+      "gioia"
+    ]
+  ],
+  "Strutturata": [
+    "neutro",
+    []
+  ]
+}

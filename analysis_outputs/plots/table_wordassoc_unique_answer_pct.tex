@@ -1,0 +1,29 @@
+% Requires: \usepackage{booktabs}
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{lrrrrrr}
+\toprule
+Question & human & gemma & gpt-oss & llama & qwen & gpt \\
+\midrule
+q3 & 50.6 & 1.0 & 9.5 & 10.6 & 1.4 & 2.4 \\
+q4 & 49.6 & 1.8 & 9.3 & 19.9 & 1.3 & 2.6 \\
+q5 & 54.3 & 2.2 & 6.5 & 23.6 & 4.9 & 6.0 \\
+q6 & 44.0 & 3.7 & 6.0 & 19.2 & 2.2 & 1.3 \\
+q7 & 42.2 & 3.9 & 6.7 & 22.4 & 2.0 & 2.9 \\
+q8 & 42.3 & 1.7 & 4.6 & 12.0 & 1.7 & 2.5 \\
+q9 & 48.8 & 1.7 & 14.6 & 19.8 & 6.0 & 3.7 \\
+q10 & 47.2 & 2.4 & 4.2 & 19.3 & 0.8 & 2.8 \\
+q11 & 45.0 & 4.0 & 14.7 & 22.3 & 4.6 & 5.7 \\
+q12 & 39.6 & 4.5 & 7.0 & 18.4 & 4.1 & 5.2 \\
+q13 & 42.1 & 3.4 & 8.5 & 14.8 & 2.9 & 4.2 \\
+q14 & 49.8 & 5.5 & 21.5 & 23.1 & 10.0 & 5.9 \\
+q15 & 49.6 & 2.4 & 7.1 & 16.6 & 5.1 & 3.6 \\
+q16 & 50.0 & 2.2 & 9.5 & 21.5 & 5.3 & 7.7 \\
+\bottomrule
+\end{tabular}
+\caption{Percentage of unique word-association answers per item (q3--q16). Systems are reported individually (not pooled).}
+\label{tab:wa-unique-pct}
+\end{table}
