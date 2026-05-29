@@ -2,7 +2,7 @@
 
 Code, data, and analysis outputs for the manuscript:
 
-**“Synthetic Respondents, Real Divergence: A Method for Measuring LLM–Human Gaps in Mixed-Format Surveys”**
+**under review**
 
 This repository contains the material used to compare human survey responses and LLM-generated survey responses across three response formats:
 
